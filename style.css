@@ -32,6 +32,11 @@ html body{
     padding: 5px;
 }
 
+#headerlogo {
+    width: 50px;
+    height: auto;
+}
+
 /* About Me Page */
 #aboutheader {
     border-top-left-radius: 25px;
