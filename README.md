@@ -7,7 +7,7 @@ Badges:
 
 Visuals:
 
-![Main Page](Assets/Screen Shot 2020-08-25 at 6.41.33 PM.png)
+[Main Page](Assets/Screen Shot 2020-08-25 at 6.41.33 PM.png)
 
 Installation:
 

@@ -76,6 +76,10 @@ html body{
     border-bottom-right-radius: 25px;
   }
 
+  #resume {
+      margin: 0 auto;
+  }
+
 /*Portfolio*/
 .portfolio-page{
   padding: 1% 1%;
