@@ -7,14 +7,15 @@ Badges:
 
 Visuals:
 
-![]()
+![Main Page](Assets/Screen Shot 2020-08-25 at 6.41.33 PM.png)
 
 Installation:
 
     Created on Mac OS
     HTML
     CSS
-
+    Bootstrap
+    Font Awesome
 
 Usage:
 
@@ -43,7 +44,7 @@ Project status:
 
 Project links:
 
-[The URL of the functional, deployed application](https://kabildgaard.github.io/Work-Day-Planner/)
+[The URL of the functional, deployed application](https://kabildgaard.github.io/Portfolio/)
 
 [The URL of the GitHub repository](https://github.com/KABILDGAARD/Portfolio)
 
